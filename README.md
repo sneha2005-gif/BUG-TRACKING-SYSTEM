@@ -1,4 +1,4 @@
-# 🐞 AI-Powered Bug Tracking System
+<img width="1706" height="777" alt="Screenshot 2026-03-02 052841" src="https://github.com/user-attachments/assets/4c2823e0-798d-40be-ae35-a58c22f576ef" /># 🐞 AI-Powered Bug Tracking System
 
 An intelligent web-based Bug Tracking System developed using Flask and MongoDB. This application helps teams report, track, manage, and resolve software bugs efficiently while providing AI-powered suggestions for bug analysis.
 
@@ -203,6 +203,5 @@ Full Stack Web Developer
 - MySQL
 - PHP
 
----
-
+![Login Page](screenshots/login.png)
 ⭐ If you like this project, please give it a star on GitHub.

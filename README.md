@@ -2,7 +2,11 @@
 
 <img width="1313" height="886" alt="Screenshot 2026-03-02 053331" src="https://github.com/user-attachments/assets/8708ddfb-22bf-4049-bcad-992b2c1ce10c" />
 
+<img width="1329" height="856" alt="Screenshot 2026-03-02 053700" src="https://github.com/user-attachments/assets/0e5a8c8a-56ce-4955-883f-88a9319f93d2" />
 
+<img width="1275" height="886" alt="Screenshot 2026-03-02 053736" src="https://github.com/user-attachments/assets/c08d6fce-ea5d-447e-ab25-dd5fee2a4301" />
+
+<img width="1342" height="881" alt="Screenshot 2026-03-02 053809" src="https://github.com/user-attachments/assets/494aa83e-588f-44dd-b527-f73f0975f581" />
 
 # 🐞 AI-Powered Bug Tracking System
 

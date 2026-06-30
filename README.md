@@ -1,4 +1,10 @@
-<img width="1706" height="777" alt="Screenshot 2026-03-02 052841" src="https://github.com/user-attachments/assets/4c2823e0-798d-40be-ae35-a58c22f576ef" /># 🐞 AI-Powered Bug Tracking System
+<img width="1706" height="777" alt="Screenshot 2026-03-02 052841" src="https://github.com/user-attachments/assets/4c2823e0-798d-40be-ae35-a58c22f576ef" />
+
+<img width="1313" height="886" alt="Screenshot 2026-03-02 053331" src="https://github.com/user-attachments/assets/8708ddfb-22bf-4049-bcad-992b2c1ce10c" />
+
+
+
+# 🐞 AI-Powered Bug Tracking System
 
 An intelligent web-based Bug Tracking System developed using Flask and MongoDB. This application helps teams report, track, manage, and resolve software bugs efficiently while providing AI-powered suggestions for bug analysis.
 
